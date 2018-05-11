@@ -1,3 +1,6 @@
+SIJAINTI:
+omat_testit/waaah/
+
 [![Nightly CI status master][master-ci-badge]][master-ci-link]
 [![IRC][irc-badge]][irc-link]
 
